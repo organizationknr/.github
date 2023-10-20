@@ -11,7 +11,7 @@ body:
   - type: input
      attributes:
       label: 제안 사항
-    validations:
+     validations:
       required: true
         # ### 제안 사항
         # * text
