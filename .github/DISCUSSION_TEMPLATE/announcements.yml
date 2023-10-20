@@ -8,17 +8,17 @@ body:
         - 통신 과정
         - 진행 상황
         - 기타
-  - type: markdown
+   - type: input
+    id: has-id
     attributes:
-      value: |      
-        ### 이슈 사항
-        * text
-        * text
-        ### 제안 사항
-        * text
-        * text
-        ### 첨부 코드
-        ```cs
-        code
-        ```
+      label: 제안 사항
+    validations:
+      required: true
+        # ### 제안 사항
+        # * text
+        # * text
+        # ### 첨부 코드
+        # ```cs
+        # code
+        # ```
 
