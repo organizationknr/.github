@@ -1,16 +1,24 @@
-title: "[Bug]: "
+title: "[From➡️To]  "
 body:
 - type: textarea
   attributes:
-    label: Bug Description
+    label: 전달 사항
     value: |
-      ### 안녕?
+      ## 카테고리: ex. 통신, 코드 수정, 요청사항
+      * text
+      * text
+      * text
 - type: textarea
   attributes:
-    label: Environment Details
-- type: markdown
+    label: 요청 사항
+    value: |
+      * text
+      * text
+      * text
+- type: textarea
   attributes:
-    value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
-- type: markdown
-  attributes:
-    value: "This is working now!"
+    label: 첨부 코드
+    value: |
+      ```cs
+      code
+      ```
