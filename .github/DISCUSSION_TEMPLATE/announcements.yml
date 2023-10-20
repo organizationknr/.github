@@ -4,7 +4,7 @@ body:
   attributes:
     label: Bug Description
     value: |
-    ### 안녕?
+      ### 안녕?
 - type: textarea
   attributes:
     label: Environment Details
