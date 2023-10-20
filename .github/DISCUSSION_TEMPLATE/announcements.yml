@@ -1,5 +1,13 @@
 title: "[From➡️To] "
 body:
+  - type: dropdown
+    attributes:
+      label: 구분
+      options:
+        - 통신 일정
+        - 통신 과정
+        - 진행 상황
+        - 기타
   - type: markdown
     attributes:
       value: |      
