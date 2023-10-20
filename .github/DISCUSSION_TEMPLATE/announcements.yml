@@ -23,9 +23,9 @@ body:
   attributes:
     label: 요청 사항
     value: |
-      * text
-      * text
-      * text
+      [ ] text
+      [ ] text
+      [ ] text
 - type: textarea
   attributes:
     label: 첨부 코드
