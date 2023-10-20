@@ -8,9 +8,17 @@ body:
         - 통신 과정
         - 진행 상황
         - 기타
-  - type: input
+  - type: textarea
+    id: improvements
     attributes:
-      label: 제안 사항
+      label: Top 3 improvements
+      description: "What are the top 3 improvements we could make to this project?"
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: markdown
     validations:
       required: true
 
