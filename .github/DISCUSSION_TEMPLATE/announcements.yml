@@ -9,8 +9,8 @@ body:
         - 진행 상황
         - 기타
   - type: input
-     attributes:
+    attributes:
       label: 제안 사항
-     validations:
+    validations:
       required: true
 
