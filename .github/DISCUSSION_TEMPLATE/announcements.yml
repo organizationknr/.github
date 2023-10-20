@@ -1,6 +1,11 @@
 title: "[Bug]: "
 body:
 - type: textarea
+  attributes:
+    label: Bug Description
+- type: textarea
+  attributes:
+    label: Environment Details
 - type: markdown
   attributes:
     value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
