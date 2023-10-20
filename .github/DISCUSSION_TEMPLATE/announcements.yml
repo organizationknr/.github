@@ -13,10 +13,8 @@ body:
       value: |
         ## 이슈 사항
   - type: textarea
-    id: 통신 일정
     attributes:
-      label: 이슈 사항
-      description: 이슈 사
+      description: 이슈 사항
       value: |
         1. text
         2. text
