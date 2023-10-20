@@ -8,9 +8,8 @@ body:
         - 통신 과정
         - 진행 상황
         - 기타
-   - type: input
-    id: has-id
-    attributes:
+  - type: input
+     attributes:
       label: 제안 사항
     validations:
       required: true
