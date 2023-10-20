@@ -14,7 +14,7 @@ body:
         ## 이슈 사항
   - type: textarea
     attributes:
-      id: issue
+      label: issue
       description: 이슈 사항
       value: |
         1. text
