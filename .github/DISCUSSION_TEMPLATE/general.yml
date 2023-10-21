@@ -5,7 +5,7 @@ body:
     attributes:
       value: |
         This is text that will show up in the template!
-  - type: input.textarea
+  - type: textarea
     id: improvements
     attributes:
       label: Top 3 improvements
